@@ -6,7 +6,3 @@
 
 # Ignore .Ds_Store file
 .DS_Store
-
-# Ignore folder with data sets not used in project
-World Happiness Report 2024/
-
